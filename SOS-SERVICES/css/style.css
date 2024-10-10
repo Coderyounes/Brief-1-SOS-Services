@@ -13,10 +13,6 @@ body {
   padding: 45px 0;
 }
 
-.layout_padding2-top {
-  padding-top: 45px;
-}
-
 .layout_padding2-bottom {
   padding-bottom: 45px;
 }
@@ -264,6 +260,9 @@ a:focus {
   color: #ff8a1d;
 }
 
+.custom_background {
+  background-color: #d1e3ff;
+}
 /*end header section*/
 /* slider section */
 .slider_section {
@@ -300,6 +299,7 @@ a:focus {
   margin-bottom: 25px;
   color: #0355cc;
 }
+
 
 .slider_section .detail-box p {
   color: #444;
@@ -536,8 +536,8 @@ a:focus {
 }
 
 .service_section .box:hover {
-  background-color: #ff8a1d;
-  color: #ffffff;
+  background-color: #d1e3ff;
+  /*color: #ffffff;*/
 }
 
 .service_section .box:hover .img-box img {
@@ -569,6 +569,11 @@ a:focus {
 .service_section .btn-box a:hover {
   background-color: transparent;
   color: #0355cc;
+}
+
+.client_section {
+  margin-top: -75px;
+  margin-bottom: 30px;
 }
 
 .client_section .heading_container {
@@ -650,7 +655,7 @@ a:focus {
 }
 
 .heading_container {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .contact_section input {
