@@ -263,6 +263,10 @@ a:focus {
 .custom_background {
   background-color: #d1e3ff;
 }
+
+.custom_navBar {
+  background-color: #ffffff;
+}
 /*end header section*/
 /* slider section */
 .slider_section {
