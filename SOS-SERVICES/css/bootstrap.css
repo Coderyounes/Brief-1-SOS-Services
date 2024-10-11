@@ -594,6 +594,14 @@ pre code {
   margin-left: -15px;
 }
 
+.custom_row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-left: 70px;  
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;

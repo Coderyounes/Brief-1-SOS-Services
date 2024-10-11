@@ -5,8 +5,8 @@ body {
 }
 
 .layout_padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .layout_padding2 {
@@ -22,7 +22,7 @@ body {
 }
 
 .layout_padding-bottom {
-  padding-bottom: 120px;
+  padding-bottom: 80px;
 }
 
 .heading_container {
@@ -572,8 +572,8 @@ a:focus {
 }
 
 .client_section {
-  margin-top: -75px;
-  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .client_section .heading_container {
@@ -666,7 +666,7 @@ a:focus {
   padding-left: 25px;
   background-color: #ffffff;
   outline: none;
-  color: #ffffff;
+  color: #000000;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
